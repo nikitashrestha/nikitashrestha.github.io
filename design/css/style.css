@@ -1,0 +1,305 @@
+.header img{
+    width: 100%;
+}
+
+.header ul{
+    display: block;
+    min-width: 46.5414%;
+    list-style: none;
+    float:right;
+    line-height: 45px;
+}
+
+.header li{
+    width:18.3486%;
+    line-height: 45px;
+    display: block;
+    float: left;
+}
+
+.header li a{
+    text-decoration: none;
+    display: block;
+    color: #3f4244;
+    text-align: center;
+}
+
+.header li a:hover{
+    color: #ffffff;
+}
+
+.header li:hover{
+    background-color: #55e8ca;
+    border-radius: 6px;
+}
+
+.hero .wrapper h2{
+    line-height: 234px;
+    font-size: 60px;
+    font-family: "Roboto";
+    color: rgb(255, 255, 255);
+}
+
+.hero .wrapper button{
+    width: 21.3310%;
+    background-image: url("../images/hero_btn.png");
+    line-height: 70px;
+    border-radius: 5px;
+    border-style: none;
+    font-size: 15px;
+    font-family: "Roboto";
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+}
+
+.services .wrapper button{
+    width: 21.3310%;
+    background-image: url("../images/hero_btn.png");
+    line-height: 70px;
+    border-radius: 5px;
+    border-style: none;
+    font-size: 15px;
+    font-family: "Roboto";
+    color: rgb(255, 255, 255);
+    margin-bottom: 82px;
+}
+
+.services-card .image img{
+    width: 100%;
+}
+
+.services-card .image span{
+    line-height: 63px;
+    font-size: 15px;
+    font-family: "Roboto";
+    font-weight: bold;
+    color: rgb(63, 66, 68);
+}
+
+.services-card .content p{
+    font-size: 13px;
+    font-family: "Roboto";
+    color: rgb(146, 155, 160);
+}
+
+.browser-header span{
+	font-size: 40px;
+    font-family: "Roboto";
+    font-weight: bold;
+	color: rgb(255, 255, 255);
+    line-height: 132px;
+}
+
+.browser-header p{
+	font-size: 13px;
+  	font-family: "Roboto";
+    color: rgb(255, 255, 255);
+	margin-bottom: 98px;
+}
+
+.phone-add .wrapper span{
+    font-size: 40px;
+    font-family: "Roboto";
+    color: rgb(63, 66, 68);
+    font-weight: bold;
+}
+
+.phone-add .wrapper p{
+    font-size: 15px;
+    font-family: "Roboto";
+    color: rgb(146, 155, 160);
+    margin: 61px 0px;
+}
+
+.phone-add .wrapper button{
+    width: 43.70620%;
+    background-image: url("../images/hero_btn.png");
+    line-height: 70px;
+    border-radius: 5px;
+    border-style: none;
+    font-size: 15px;
+    font-family: "Roboto";
+    cursor: pointer;
+    color: rgb(255, 255, 255);
+}
+
+.portfolio-headers span{
+    font-size: 40px;
+    font-family: "Roboto";
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.portfolio-headers  p{
+    font-size: 13px;
+    font-family: "Roboto";
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin-top: 33px;
+}
+
+.portfolio-body ul{
+    list-style: none;
+    width: 100%;
+    float: left;
+}
+
+.portfolio-body ul li{
+  
+    display: block;
+    float: left;
+    line-height: 73px;
+}
+
+.portfolio-body ul li a{
+    text-decoration: none;
+    font-size: 15px;
+    font-family: "Roboto";
+    color: rgb(63, 66, 68);
+}
+
+.portfolio-body ul li a:hover{
+    color: rgb(255, 255, 255);
+}
+
+.portfolio-card .image img{
+    width: 100%;
+}
+
+.portfolio-card .content span{
+    font-size: 15px;
+    font-family: "Roboto";
+    font-weight: bold;
+    line-height: 53px;
+}
+
+.portfolio-card .content p{
+    padding-bottom: 29px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.load-more{
+    cursor: pointer;
+}
+
+.stats-card .content span{
+    font-size: 40px;
+    font-family: "Roboto";
+    color: rgb(255, 255, 255);
+    line-height: 99px;
+}
+
+.stats-card .content p{
+    font-size: 13px;
+    font-family: "Roboto";
+    color: rgb(16, 202, 183);
+}
+
+.team-header span{
+	font-size: 40px;
+    font-family: "Roboto";
+    font-weight: bold;
+	color: rgb(63, 66, 68);
+    line-height: 132px;
+}
+
+.team-header p{
+	font-size: 13px;
+  	font-family: "Roboto";
+	color: rgb(146, 155, 160);
+	margin-bottom: 98px;
+}
+
+.team-card .image img{
+    width: 100%;
+}
+
+.team-card .content span{
+    display: block;
+    font-size: 20px;
+    font-family: "Roboto";
+    color: rgb(63, 66, 68);
+    margin-bottom: 13px;
+}
+
+.team-card .content div p{
+    font-size: 13px;
+    font-family: "Roboto";
+    color: rgb(255, 255, 255);
+    margin-bottom: 29px;
+}
+
+.desc{
+    font-size: 15px;
+    font-family: "Roboto";
+    color: rgb(63, 66, 68);
+}
+
+.post{
+    font-size: 13px;
+    font-family: "Roboto";
+    color: rgb(255, 255, 255);
+}
+
+.nav-upper .content span{
+    font-size: 20px;
+    font-family: "Roboto";
+    color: rgb(255, 255, 255);
+    line-height: 48px;
+}
+
+.nav-upper .content p{
+    font-size: 13px;
+    font-family: "Roboto";
+    color: rgb(255, 255, 255);
+}
+
+
+.nav-lower  img{
+    cursor: pointer;
+    margin-top: 50px;
+    margin-right: 32px;
+}
+
+.subscribe .wrapper span{
+    font-size: 20px;
+    font-family: "Roboto";
+    color: rgb(255, 255, 255);
+}
+
+.subscribe .wrapper button{
+    background-image: url("../images/Btn_subscribe.png");
+    width: 14.5051%;
+    margin-top:43px;
+    color: rgb(255, 255, 255);
+    background-color: #233537;
+    line-height: 49px;
+    cursor: pointer;
+}
+
+.about-content span{
+    font-size: 20px;
+    font-family: "Roboto";
+    font-weight: bold;
+    color: rgb(63, 66, 68);
+    line-height: 99px;
+}
+
+.about-content p{
+    font-size: 13px;
+    font-family: "Roboto";
+    font-weight: bold;
+    color: rgb(146, 155, 160);
+}
+
+.footer span{
+    color: #10cab7;
+    line-height: 110px;   
+}
+
+.footer p{
+    line-height: 110px;
+    text-align: center;
+    color: #ffffff;
+}
+

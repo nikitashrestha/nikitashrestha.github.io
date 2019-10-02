@@ -1,0 +1,30 @@
+.body{
+    min-width: 960px;
+}
+
+.header-wrapper{
+    width: 100%;
+    background-color: red;
+}
+
+.header{
+    width: 92%;
+    margin: 0px auto;
+}
+.image{
+    width: 50%;
+    float: left;
+    background-color: pink;
+}
+
+.intro{
+    width: 50%;
+    float: right;
+    background-color: blue;
+}
+
+/* js-experiments/
+index.html
+Ass1/index.html 
+Ass2/index.html
+put all the above content in gh-pages branche*/

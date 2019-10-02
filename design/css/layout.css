@@ -1,0 +1,213 @@
+.clearfix:after {
+    content: " "; /* Older browser do not support empty content */
+    visibility: hidden;
+    display: block;
+    height: 0;
+    clear: both;
+ }
+
+.wrapper{
+    width: 73.25em;
+    margin: 0 auto;
+}
+
+.header{
+    min-width: 960px;
+    margin-top:29px;
+    margin-bottom: 26px;
+}
+
+.logo{
+    float: left;
+    width: 8.3617%;
+}
+
+.main-wrapper{
+    min-width: 960px;
+}
+
+.hero{
+    background-image: url("../images/hero_background.png");
+    background-repeat: no-repeat;
+}
+
+.hero .wrapper div{
+    text-align: center;
+    padding-top: 216px;
+    padding-bottom: 250px;
+}
+
+.services .wrapper{
+    text-align: center;
+}
+
+.services-card-wrapper{
+    width: 100%;
+    padding-bottom: 85px;
+    padding-top: 85px;
+}
+
+.services-card{
+    width: 23.0375%;
+    margin-right: 29px;
+    float: left;
+    text-align: center;
+}
+
+.services-card .image{
+    /* text-align: center; */
+    width: 100%;
+}
+
+.services-card .image .holder{
+    
+    width: 47.7941%;
+    
+}
+.services-card .content{
+    width: 100%;
+}
+
+.browser-add{
+    /* background-image: url("../images/") */
+    background-image: -moz-linear-gradient( -82.192deg, rgb(255,108,84) 1%, rgb(255,43,89) 99%);
+    background-image: -webkit-linear-gradient( -82.192deg, rgb(255,108,84) 1%, rgb(255,43,89) 99%);
+    background-image: -ms-linear-gradient( -82.192deg, rgb(255,108,84) 1%, rgb(255,43,89) 99%);
+    padding-bottom: 56px;
+    padding-top: 56px;
+}
+
+.browser-header{
+    width: 100%;
+    text-align: center;
+}
+
+.phone{
+    width:41.7235%;
+    float: left;
+}
+
+.phone-add .wrapper .content{
+    width: 48.8054%;
+    float: right;
+    padding-top: 146px;
+    padding-bottom: 118px;
+}
+
+.portfolio{
+    background-image: url("../images/portfolio.png");
+    padding-bottom: 56px;
+    padding-top: 56px;
+}
+
+.portfolio-headers{
+    text-align: center;
+    width: 100%;
+}
+
+.portfolio-body{
+    text-align: center;
+    width: 100%;
+}
+
+.portfolio-card-wrapper{
+    margin-top: 25px;
+}
+
+
+.portfolio-card{
+    width: 31.6552%;
+    float: left;
+    text-align: center;
+    margin-right: 29px;
+    margin-bottom: 31px;
+}
+.portfolio-unique{
+    margin-right: 0px;
+}
+.portfolio-card .image{
+    width : 100%;
+}
+
+.portfolio-card .content{
+    background-color: #ffffff;
+    width: 100%;
+}
+.stats{
+    background-color: rgb(35, 53, 55); 
+    padding-top: 81px;
+    padding-bottom: 81px;
+}
+
+.stats-card-wrapper{
+
+}
+
+.stats-card{
+    width:23.0375%;
+    margin-right: 29px;
+    float: left;
+    text-align: center;
+}
+
+.stats-card .image{
+    width: 100%;
+}
+
+.stats-card .content{
+    width: 100%;
+}
+.team{
+    
+    padding-bottom: 56px;
+    padding-top: 56px;
+}
+
+.team-header{
+    text-align: center;
+    width: 100%;
+}
+
+.team-card-wrapper{
+    width: 100%;
+}
+
+.team-card{
+    width:23.0375%;
+    margin-right: 29px;
+    float: left;
+}
+
+.team-card-unique{
+    margin-right: 0px;
+}
+
+.team-card .image{
+    background-color: #232e3d;
+    width: 100%;
+}
+
+.team-card .content{
+    padding-top: 33px;
+    padding-bottom: 33px;
+    padding-left: 11.7647%;
+    padding-right: 11.7647%;
+    text-align: center;
+    background-image: url("../images/team_but.png");
+}
+
+.navigation-slider{
+    background-image: -moz-linear-gradient( -89.706deg, rgb(255,108,84) 1%, rgb(255,43,89) 99%);
+    background-image: -webkit-linear-gradient( -89.706deg, rgb(255,108,84) 1%, rgb(255,43,89) 99%);
+    background-image: -ms-linear-gradient( -89.706deg, rgb(255,108,84) 1%, rgb(255,43,89) 99%);
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.nav-upper{
+    text-align: center;
+}
+
+.nav-lower{
+    text-align: center;
+}
